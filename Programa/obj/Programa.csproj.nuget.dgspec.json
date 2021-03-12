@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DARWIN\\Desktop\\PROGRAMACION\\1.POO\\F Society\\Programa\\Programa.csproj": {}
+    "C:\\Users\\bryan\\Documents\\Workspace\\FSociety_POO012021\\Programa\\Programa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DARWIN\\Desktop\\PROGRAMACION\\1.POO\\F Society\\Programa\\Programa.csproj": {
+    "C:\\Users\\bryan\\Documents\\Workspace\\FSociety_POO012021\\Programa\\Programa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DARWIN\\Desktop\\PROGRAMACION\\1.POO\\F Society\\Programa\\Programa.csproj",
+        "projectUniqueName": "C:\\Users\\bryan\\Documents\\Workspace\\FSociety_POO012021\\Programa\\Programa.csproj",
         "projectName": "Programa",
-        "projectPath": "C:\\Users\\DARWIN\\Desktop\\PROGRAMACION\\1.POO\\F Society\\Programa\\Programa.csproj",
-        "packagesPath": "C:\\Users\\DARWIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DARWIN\\Desktop\\PROGRAMACION\\1.POO\\F Society\\Programa\\obj\\",
+        "projectPath": "C:\\Users\\bryan\\Documents\\Workspace\\FSociety_POO012021\\Programa\\Programa.csproj",
+        "packagesPath": "C:\\Users\\bryan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bryan\\Documents\\Workspace\\FSociety_POO012021\\Programa\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DARWIN\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\bryan\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
